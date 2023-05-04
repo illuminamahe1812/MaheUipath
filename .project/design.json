@@ -1,3 +1,10 @@
 {
-  "Tags": []
+  "Tags": [
+    {
+      "Key": "first"
+    },
+    {
+      "Key": "studio"
+    }
+  ]
 }
