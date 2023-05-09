@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>MyFirstProject</id>
+    <version>1.0.5</version>
+    <title>MyFirstProject</title>
+    <authors>acuser</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Blank Process MyFirstProject</description>
+    <tags>VisualBasic VB UiPathStudioProcess first studio</tags>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="UiPath.Excel.Activities" version="[2.20.1]" />
+        <dependency id="UiPath.Mail.Activities" version="[1.18.2]" />
+        <dependency id="UiPath.System.Runtime.Windows" version="23.4.2" />
+        <dependency id="UiPath.Testing.Activities" version="[23.4.0]" />
+        <dependency id="UiPath.UIAutomation.Activities.Runtime" version="23.4.4" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
